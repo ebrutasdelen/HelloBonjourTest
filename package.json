@@ -1,0 +1,20 @@
+{
+  "name": "hellobonjour",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha **/*.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mocha": "^8.1.0"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "request": "^2.88.2"
+  }
+}
